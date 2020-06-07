@@ -20,3 +20,6 @@ It is simple. Just get into the site and provide your current information and it
 
 You can contact me through email, which is 21300858@handong.edu.
 Thank you for visiting here!
+
+
+CURRENTLY EDITING SOURCE CODE.. Source codes will be edited anytime before submission of final project video! (6/13)
