@@ -9,7 +9,9 @@ All source codes are made by myself and no open source codes were used here.
 
 ## What does this project do?
 
-"What is going on today?" is a webserivce that provides various REAL-TIME data to the user. The informations are updated every 30 seconds while server is open.
+"What is going on today?" is a webserivce that provides various REAL-TIME data to the user. The informations are updated every 10 seconds while server is open.
+
+This webserver is running based on a program made with C language.
 
 Various data list: 
 1. Current situation of Corona virus infection in South Korea.
