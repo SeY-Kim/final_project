@@ -32,7 +32,7 @@ It saves time for busy modern life users.
 It is simple. While the webservice is running, it will continously update real time information on the website.
 Users only need to access the server provided by raspberrypi.
 
-1. Gett into the same local internet connection with raspberrypi server.
+1. Get into the same local internet connection with raspberrypi server.
 2. Turn on a web browser.
 3. Type raspberypi.local/WhatIsGoingOnToday on the web browser
 And you are done!
