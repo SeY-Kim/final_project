@@ -1,4 +1,5 @@
-### What is going on today?
+### "What is going on today?" WebService!!
+made by Youngjae Kim 21300858.
 
 ## Welcome to Final Project For OSS Lab!
 
