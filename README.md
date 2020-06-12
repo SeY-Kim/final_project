@@ -43,6 +43,7 @@ And you are ready!
 You can contact me through email, which is 21300858@handong.edu.
 Thank you for visiting this github!
 
+## VIDEO PRESENTATION LINK HERE!
+<br>youtube.com/watch?v=lh3qTTqlZOY</br>
+<br>Please notice that the c program is all coded by myself</br>
 
-Source codes are being edited currently..and will be uploaded before project video submission day! (6/13)
-Thank you for waiting.
