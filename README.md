@@ -44,6 +44,7 @@ You can contact me through email, which is 21300858@handong.edu.
 Thank you for visiting this github!
 
 ## VIDEO PRESENTATION LINK HERE!
-<br><a href = "youtube.com/watch?v=lh3qTTqlZOY">Youtube video link click here!</a></br>
+<br><a href = "https://www.youtube.com/watch?v=lh3qTTqlZOY">Youtube video link click here!</a></br>
 <br>All c program were coded by myself, no copied sources were used in this project</br>
+<br>if the hyperlink doesn't work - type in youtube.com/watch?v=lh3qTTqlZOY
 
